@@ -1,1 +1,1 @@
-"coucou les choupis"
+print("coucou les choupis")
